@@ -6,7 +6,7 @@ I was using GitHub… without actually understanding Git.
 
 And apparently, that’s more common than I thought ;)
 
-So this space is for learning Git properly — from scratch — in a way that actually makes sense.
+So this space is for learning Git properly - from scratch - in a way that actually makes sense.
 
 Not rushed.
 Just clear understanding, one step at a time.
@@ -20,7 +20,7 @@ I have created this repository for everyone who:
 * Wants to know what’s actually happening behind the scenes
 
 Instead of guessing and memorizing, the goal here is simple:
-Let’s learn Git the right way — together.
+Let’s learn Git the right way - together.
 
 ## What this journey will cover
 
@@ -67,7 +67,7 @@ If that was you too, don’t worry. You’re not alone in this :)
 This is a beginner-friendly journey.
 
 So if something feels confusing at first, that’s okay.
-We’re not rushing through this — we’re understanding it.
+We’re not rushing through this - we’re understanding it.
 
 One concept at a time.
 
